@@ -1,0 +1,4 @@
+filetype
+filey
+pyperclip
+sl4ng
